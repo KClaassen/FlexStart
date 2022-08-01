@@ -916,7 +916,10 @@ section {
   left: 0;
   bottom: 0;
   height: 100%;
-  width: 100%;
+  width: 110%;
+  /* transform: translateX(-10px); */
+  transform: translate(-10px,20px);
+  overflow: hidden;
   background: url(../img/team-shape.svg) no-repeat center bottom;
   background-size: contain;
   z-index: 1;
