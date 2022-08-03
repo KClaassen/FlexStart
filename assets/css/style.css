@@ -1659,3 +1659,11 @@ section {
   font-size: 13px;
   color: #012970;
 }
+
+
+/* Custom Code */
+
+.flex-middle {
+  display: flex;
+  align-items: center;
+}
